@@ -1,132 +1,132 @@
 [
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o -c /home/bonita/Desktop/icex/src/BosPRMAlg.cpp",
-  "file": "/home/bonita/Desktop/icex/src/BosPRMAlg.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/CameraParser.cpp.o -c /home/bonita/Desktop/icex/src/CameraParser.cpp",
-  "file": "/home/bonita/Desktop/icex/src/CameraParser.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/CameraParser.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/GLSL.cpp.o -c /home/bonita/Desktop/icex/src/GLSL.cpp",
-  "file": "/home/bonita/Desktop/icex/src/GLSL.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/GLSL.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/MatrixStack.cpp.o -c /home/bonita/Desktop/icex/src/MatrixStack.cpp",
-  "file": "/home/bonita/Desktop/icex/src/MatrixStack.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/MatrixStack.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Program.cpp.o -c /home/bonita/Desktop/icex/src/Program.cpp",
-  "file": "/home/bonita/Desktop/icex/src/Program.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Program.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Shape.cpp.o -c /home/bonita/Desktop/icex/src/Shape.cpp",
-  "file": "/home/bonita/Desktop/icex/src/Shape.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Shape.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Texture.cpp.o -c /home/bonita/Desktop/icex/src/Texture.cpp",
-  "file": "/home/bonita/Desktop/icex/src/Texture.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Texture.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Utilities.cpp.o -c /home/bonita/Desktop/icex/src/Utilities.cpp",
-  "file": "/home/bonita/Desktop/icex/src/Utilities.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/Utilities.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/funcs.cpp.o -c /home/bonita/Desktop/icex/src/funcs.cpp",
-  "file": "/home/bonita/Desktop/icex/src/funcs.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/funcs.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/main.cpp.o -c /home/bonita/Desktop/icex/src/main.cpp",
-  "file": "/home/bonita/Desktop/icex/src/main.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/main.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp"
 },
 {
-  "directory": "/home/bonita/Desktop/icex/build",
-  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex/src -I/home/bonita/Desktop/icex/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o -c /home/bonita/Desktop/icex/src/tiny_obj_loader.cpp",
-  "file": "/home/bonita/Desktop/icex/src/tiny_obj_loader.cpp"
+  "directory": "/home/bonita/Desktop/icex2018/ICEX2018/build",
+  "command": "/usr/bin/c++  -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/Desktop/icex2018/ICEX2018/src -I/home/bonita/Desktop/icex2018/ICEX2018/src/imgui -I/usr/local/include/eigen3 -I/home/bonita/OGL_libs/glm-0.9.9.0 -I/home/bonita/OGL_libs/glew-glew-2.1.0/include -isystem /usr/local/include/opencv4    '--std=c++11' -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp",
+  "file": "/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/context.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/context.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/context.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/init.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/init.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/init.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/init.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/init.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/input.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/input.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/input.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/input.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/input.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/monitor.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/monitor.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/monitor.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/monitor.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/monitor.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/vulkan.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/vulkan.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/vulkan.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/vulkan.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/vulkan.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/window.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/window.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/window.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/window.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/window.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_init.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_init.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_init.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_init.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/x11_init.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_monitor.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_monitor.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/x11_monitor.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_window.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_window.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/x11_window.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/x11_window.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/x11_window.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/xkb_unicode.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/xkb_unicode.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/xkb_unicode.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/linux_joystick.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/linux_joystick.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/linux_joystick.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/posix_time.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/posix_time.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/posix_time.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/posix_time.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/posix_time.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/posix_tls.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/posix_tls.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/posix_tls.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/posix_tls.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/posix_tls.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/glx_context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/glx_context.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/glx_context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/glx_context.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/glx_context.c"
 },
 {
   "directory": "/home/bonita/OGL_libs/glfw-3.2.1/debug/src",
-  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/egl_context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/egl_context.c",
+  "command": "/usr/bin/cc -DRESOURCE_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\\\" -DSHADER_PATH=\\\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\\\" -D_GLFW_USE_CONFIG_H -I/home/bonita/OGL_libs/glfw-3.2.1/include -I/home/bonita/OGL_libs/glfw-3.2.1/src -I/home/bonita/OGL_libs/glfw-3.2.1/debug/src  -fPIC   '--std=c++11' -Wall -o CMakeFiles/glfw.dir/egl_context.c.o   -c /home/bonita/OGL_libs/glfw-3.2.1/src/egl_context.c",
   "file": "/home/bonita/OGL_libs/glfw-3.2.1/src/egl_context.c"
 }
 ]

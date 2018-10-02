@@ -4,24 +4,24 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bonita/Desktop/icex/src/BosPRMAlg.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o"
-  "/home/bonita/Desktop/icex/src/CameraParser.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/CameraParser.cpp.o"
-  "/home/bonita/Desktop/icex/src/GLSL.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/GLSL.cpp.o"
-  "/home/bonita/Desktop/icex/src/MatrixStack.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/MatrixStack.cpp.o"
-  "/home/bonita/Desktop/icex/src/Program.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/Program.cpp.o"
-  "/home/bonita/Desktop/icex/src/Shape.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/Shape.cpp.o"
-  "/home/bonita/Desktop/icex/src/Texture.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/Texture.cpp.o"
-  "/home/bonita/Desktop/icex/src/Utilities.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/Utilities.cpp.o"
-  "/home/bonita/Desktop/icex/src/funcs.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/funcs.cpp.o"
-  "/home/bonita/Desktop/icex/src/main.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/main.cpp.o"
-  "/home/bonita/Desktop/icex/src/tiny_obj_loader.cpp" "/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/CameraParser.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/GLSL.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/MatrixStack.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/Program.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/Shape.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/Texture.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/Utilities.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/funcs.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/main.cpp.o"
+  "/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp" "/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
-  "RESOURCE_PATH=\"/home/bonita/Desktop/icex/resources/\""
-  "SHADER_PATH=\"/home/bonita/Desktop/icex/shaders/\""
+  "RESOURCE_PATH=\"/home/bonita/Desktop/icex2018/ICEX2018/resources/\""
+  "SHADER_PATH=\"/home/bonita/Desktop/icex2018/ICEX2018/shaders/\""
   )
 
 # The include file search paths:

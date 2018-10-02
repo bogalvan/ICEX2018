@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/bonita/Desktop/icex/src/Anchor.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Anchor.h
 string
 -
 fstream
@@ -18,15 +18,15 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 FrustumObj.h
-/home/bonita/Desktop/icex/src/FrustumObj.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/FrustumObj.h
 ray.h
-/home/bonita/Desktop/icex/src/ray.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/ray.h
 Utilities.h
-/home/bonita/Desktop/icex/src/Utilities.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.h
 
-/home/bonita/Desktop/icex/src/BosPRMAlg.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp
 
-/home/bonita/Desktop/icex/src/BoundingBox.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/BoundingBox.h
 string
 -
 fstream
@@ -38,11 +38,11 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/CameraParser.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp
 CameraParser.h
-/home/bonita/Desktop/icex/src/CameraParser.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.h
 
-/home/bonita/Desktop/icex/src/CameraParser.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.h
 string
 -
 fstream
@@ -54,7 +54,7 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/Frustum.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Frustum.h
 string
 -
 fstream
@@ -66,9 +66,9 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 Plane.h
-/home/bonita/Desktop/icex/src/Plane.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Plane.h
 
-/home/bonita/Desktop/icex/src/FrustumObj.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/FrustumObj.h
 string
 -
 fstream
@@ -82,9 +82,9 @@ glm/gtc/matrix_transform.hpp
 GL/glew.h
 -
 
-/home/bonita/Desktop/icex/src/GLSL.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 stdio.h
 -
 stdlib.h
@@ -96,33 +96,33 @@ cstring
 cassert
 -
 
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 GL/glew.h
 -
 sstream
 -
 
-/home/bonita/Desktop/icex/src/MatrixStack.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp
 MatrixStack.h
-/home/bonita/Desktop/icex/src/MatrixStack.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.h
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/MatrixStack.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.h
 stack
 -
 memory
 -
 glm/glm.hpp
-/home/bonita/Desktop/icex/src/glm/glm.hpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/glm/glm.hpp
 glm/vec4.hpp
-/home/bonita/Desktop/icex/src/glm/vec4.hpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/glm/vec4.hpp
 glm/mat4x4.hpp
-/home/bonita/Desktop/icex/src/glm/mat4x4.hpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/glm/mat4x4.hpp
 glm/gtc/matrix_transform.hpp
-/home/bonita/Desktop/icex/src/glm/gtc/matrix_transform.hpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/glm/gtc/matrix_transform.hpp
 
-/home/bonita/Desktop/icex/src/Obj.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Obj.h
 string
 -
 fstream
@@ -134,7 +134,7 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/Plane.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Plane.h
 string
 -
 fstream
@@ -146,17 +146,17 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/Program.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp
 Program.h
-/home/bonita/Desktop/icex/src/Program.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Program.h
 iostream
 -
 cassert
 -
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 
-/home/bonita/Desktop/icex/src/Program.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Program.h
 map
 -
 string
@@ -164,21 +164,21 @@ string
 GL/glew.h
 -
 
-/home/bonita/Desktop/icex/src/Shape.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp
 Shape.h
-/home/bonita/Desktop/icex/src/Shape.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.h
 iostream
 -
 assert.h
 -
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 Program.h
-/home/bonita/Desktop/icex/src/Program.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Program.h
 tiny_obj_loader.h
-/home/bonita/Desktop/icex/src/tiny_obj_loader.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.h
 
-/home/bonita/Desktop/icex/src/Shape.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.h
 string
 -
 vector
@@ -188,13 +188,13 @@ memory
 glm/gtc/type_ptr.hpp
 -
 tiny_obj_loader.h
-/home/bonita/Desktop/icex/src/tiny_obj_loader.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.h
 
-/home/bonita/Desktop/icex/src/Texture.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp
 Texture.h
-/home/bonita/Desktop/icex/src/Texture.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.h
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 stdio.h
 -
 stdlib.h
@@ -202,19 +202,19 @@ stdlib.h
 iostream
 -
 stb_image.h
-/home/bonita/Desktop/icex/src/stb_image.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/stb_image.h
 
-/home/bonita/Desktop/icex/src/Texture.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.h
 GL/glew.h
 -
 string
 -
 
-/home/bonita/Desktop/icex/src/Utilities.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp
 Utilities.h
-/home/bonita/Desktop/icex/src/Utilities.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.h
 
-/home/bonita/Desktop/icex/src/Utilities.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.h
 stdlib.h
 -
 stdio.h
@@ -222,7 +222,7 @@ stdio.h
 time.h
 -
 
-/home/bonita/Desktop/icex/src/camera.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/camera.h
 string
 -
 fstream
@@ -234,17 +234,17 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 Frustum.h
-/home/bonita/Desktop/icex/src/Frustum.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Frustum.h
 Plane.h
-/home/bonita/Desktop/icex/src/Plane.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Plane.h
 ray.h
-/home/bonita/Desktop/icex/src/ray.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/ray.h
 
-/home/bonita/Desktop/icex/src/funcs.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp
 funcs.h
-/home/bonita/Desktop/icex/src/funcs.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.h
 
-/home/bonita/Desktop/icex/src/funcs.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.h
 GL/glew.h
 -
 GLFW/glfw3.h
@@ -254,13 +254,13 @@ opencv2/core/core.hpp
 opencv2/highgui/highgui.hpp
 -
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 glm/gtc/type_ptr.hpp
 -
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/main.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp
 iostream
 -
 GL/glew.h
@@ -274,39 +274,39 @@ opencv2/highgui/highgui.hpp
 time.h
 -
 GLSL.h
-/home/bonita/Desktop/icex/src/GLSL.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.h
 glm/ext.hpp
-/home/bonita/Desktop/icex/src/glm/ext.hpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/glm/ext.hpp
 Program.h
-/home/bonita/Desktop/icex/src/Program.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Program.h
 MatrixStack.h
-/home/bonita/Desktop/icex/src/MatrixStack.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.h
 Shape.h
-/home/bonita/Desktop/icex/src/Shape.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Shape.h
 Texture.h
-/home/bonita/Desktop/icex/src/Texture.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Texture.h
 CameraParser.h
-/home/bonita/Desktop/icex/src/CameraParser.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.h
 camera.h
-/home/bonita/Desktop/icex/src/camera.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/camera.h
 BoundingBox.h
-/home/bonita/Desktop/icex/src/BoundingBox.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/BoundingBox.h
 Obj.h
-/home/bonita/Desktop/icex/src/Obj.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Obj.h
 Anchor.h
-/home/bonita/Desktop/icex/src/Anchor.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Anchor.h
 FrustumObj.h
-/home/bonita/Desktop/icex/src/FrustumObj.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/FrustumObj.h
 Plane.h
-/home/bonita/Desktop/icex/src/Plane.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Plane.h
 funcs.h
-/home/bonita/Desktop/icex/src/funcs.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/funcs.h
 glm/gtc/type_ptr.hpp
 -
 glm/gtc/matrix_transform.hpp
 -
 
-/home/bonita/Desktop/icex/src/ray.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/ray.h
 string
 -
 fstream
@@ -318,11 +318,11 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 Plane.h
-/home/bonita/Desktop/icex/src/Plane.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/Plane.h
 
-/home/bonita/Desktop/icex/src/stb_image.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/stb_image.h
 stb_image.h
-/home/bonita/Desktop/icex/src/stb_image.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/stb_image.h
 stdio.h
 -
 stdarg.h
@@ -348,7 +348,7 @@ intrin.h
 arm_neon.h
 -
 
-/home/bonita/Desktop/icex/src/tiny_obj_loader.cpp
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp
 cstdlib
 -
 cstring
@@ -372,9 +372,9 @@ fstream
 sstream
 -
 tiny_obj_loader.h
-/home/bonita/Desktop/icex/src/tiny_obj_loader.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.h
 
-/home/bonita/Desktop/icex/src/tiny_obj_loader.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.h
 string
 -
 vector
@@ -404,7 +404,7 @@ fstream
 sstream
 -
 tiny_obj_loader.h
-/home/bonita/Desktop/icex/src/tiny_obj_loader.h
+/home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.h
 
 /home/bonita/OGL_libs/glew-glew-2.1.0/include/GL/glew.h
 stddef.h

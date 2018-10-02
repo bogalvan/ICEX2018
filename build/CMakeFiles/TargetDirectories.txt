@@ -1,10 +1,10 @@
-/home/bonita/Desktop/icex/build/CMakeFiles/install/strip.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/edit_cache.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/icex.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/rebuild_cache.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/list_install_components.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/install/local.dir
-/home/bonita/Desktop/icex/build/CMakeFiles/install.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/install/strip.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/edit_cache.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/rebuild_cache.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/list_install_components.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/install/local.dir
+/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/install.dir
 /home/bonita/OGL_libs/glfw-3.2.1/debug/CMakeFiles/install/strip.dir
 /home/bonita/OGL_libs/glfw-3.2.1/debug/CMakeFiles/edit_cache.dir
 /home/bonita/OGL_libs/glfw-3.2.1/debug/CMakeFiles/uninstall.dir

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bonita/Desktop/icex
+CMAKE_SOURCE_DIR = /home/bonita/Desktop/icex2018/ICEX2018
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bonita/Desktop/icex/build
+CMAKE_BINARY_DIR = /home/bonita/Desktop/icex2018/ICEX2018/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/icex.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/icex.dir/flags.make
 
 CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o: ../src/BosPRMAlg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o -c /home/bonita/Desktop/icex/src/BosPRMAlg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp
 
 CMakeFiles/icex.dir/src/BosPRMAlg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/BosPRMAlg.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/BosPRMAlg.cpp > CMakeFiles/icex.dir/src/BosPRMAlg.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp > CMakeFiles/icex.dir/src/BosPRMAlg.cpp.i
 
 CMakeFiles/icex.dir/src/BosPRMAlg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/BosPRMAlg.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/BosPRMAlg.cpp -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/BosPRMAlg.cpp -o CMakeFiles/icex.dir/src/BosPRMAlg.cpp.s
 
 CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/icex.dir/src/BosPRMAlg.cpp.o.provides.build: CMakeFiles/icex.dir/src/
 
 CMakeFiles/icex.dir/src/CameraParser.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/CameraParser.cpp.o: ../src/CameraParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/icex.dir/src/CameraParser.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/CameraParser.cpp.o -c /home/bonita/Desktop/icex/src/CameraParser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/icex.dir/src/CameraParser.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/CameraParser.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp
 
 CMakeFiles/icex.dir/src/CameraParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/CameraParser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/CameraParser.cpp > CMakeFiles/icex.dir/src/CameraParser.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp > CMakeFiles/icex.dir/src/CameraParser.cpp.i
 
 CMakeFiles/icex.dir/src/CameraParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/CameraParser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/CameraParser.cpp -o CMakeFiles/icex.dir/src/CameraParser.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/CameraParser.cpp -o CMakeFiles/icex.dir/src/CameraParser.cpp.s
 
 CMakeFiles/icex.dir/src/CameraParser.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/icex.dir/src/CameraParser.cpp.o.provides.build: CMakeFiles/icex.dir/s
 
 CMakeFiles/icex.dir/src/GLSL.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/GLSL.cpp.o: ../src/GLSL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/icex.dir/src/GLSL.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/GLSL.cpp.o -c /home/bonita/Desktop/icex/src/GLSL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/icex.dir/src/GLSL.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/GLSL.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp
 
 CMakeFiles/icex.dir/src/GLSL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/GLSL.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/GLSL.cpp > CMakeFiles/icex.dir/src/GLSL.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp > CMakeFiles/icex.dir/src/GLSL.cpp.i
 
 CMakeFiles/icex.dir/src/GLSL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/GLSL.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/GLSL.cpp -o CMakeFiles/icex.dir/src/GLSL.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/GLSL.cpp -o CMakeFiles/icex.dir/src/GLSL.cpp.s
 
 CMakeFiles/icex.dir/src/GLSL.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/icex.dir/src/GLSL.cpp.o.provides.build: CMakeFiles/icex.dir/src/GLSL.
 
 CMakeFiles/icex.dir/src/MatrixStack.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/MatrixStack.cpp.o: ../src/MatrixStack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/icex.dir/src/MatrixStack.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/MatrixStack.cpp.o -c /home/bonita/Desktop/icex/src/MatrixStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/icex.dir/src/MatrixStack.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/MatrixStack.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp
 
 CMakeFiles/icex.dir/src/MatrixStack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/MatrixStack.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/MatrixStack.cpp > CMakeFiles/icex.dir/src/MatrixStack.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp > CMakeFiles/icex.dir/src/MatrixStack.cpp.i
 
 CMakeFiles/icex.dir/src/MatrixStack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/MatrixStack.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/MatrixStack.cpp -o CMakeFiles/icex.dir/src/MatrixStack.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/MatrixStack.cpp -o CMakeFiles/icex.dir/src/MatrixStack.cpp.s
 
 CMakeFiles/icex.dir/src/MatrixStack.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/icex.dir/src/MatrixStack.cpp.o.provides.build: CMakeFiles/icex.dir/sr
 
 CMakeFiles/icex.dir/src/Program.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/Program.cpp.o: ../src/Program.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/icex.dir/src/Program.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Program.cpp.o -c /home/bonita/Desktop/icex/src/Program.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/icex.dir/src/Program.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Program.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp
 
 CMakeFiles/icex.dir/src/Program.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/Program.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/Program.cpp > CMakeFiles/icex.dir/src/Program.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp > CMakeFiles/icex.dir/src/Program.cpp.i
 
 CMakeFiles/icex.dir/src/Program.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/Program.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/Program.cpp -o CMakeFiles/icex.dir/src/Program.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/Program.cpp -o CMakeFiles/icex.dir/src/Program.cpp.s
 
 CMakeFiles/icex.dir/src/Program.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/icex.dir/src/Program.cpp.o.provides.build: CMakeFiles/icex.dir/src/Pr
 
 CMakeFiles/icex.dir/src/Shape.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/Shape.cpp.o: ../src/Shape.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/icex.dir/src/Shape.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Shape.cpp.o -c /home/bonita/Desktop/icex/src/Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/icex.dir/src/Shape.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Shape.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp
 
 CMakeFiles/icex.dir/src/Shape.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/Shape.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/Shape.cpp > CMakeFiles/icex.dir/src/Shape.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp > CMakeFiles/icex.dir/src/Shape.cpp.i
 
 CMakeFiles/icex.dir/src/Shape.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/Shape.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/Shape.cpp -o CMakeFiles/icex.dir/src/Shape.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/Shape.cpp -o CMakeFiles/icex.dir/src/Shape.cpp.s
 
 CMakeFiles/icex.dir/src/Shape.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/icex.dir/src/Shape.cpp.o.provides.build: CMakeFiles/icex.dir/src/Shap
 
 CMakeFiles/icex.dir/src/Texture.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/Texture.cpp.o: ../src/Texture.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/icex.dir/src/Texture.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Texture.cpp.o -c /home/bonita/Desktop/icex/src/Texture.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/icex.dir/src/Texture.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Texture.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp
 
 CMakeFiles/icex.dir/src/Texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/Texture.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/Texture.cpp > CMakeFiles/icex.dir/src/Texture.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp > CMakeFiles/icex.dir/src/Texture.cpp.i
 
 CMakeFiles/icex.dir/src/Texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/Texture.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/Texture.cpp -o CMakeFiles/icex.dir/src/Texture.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/Texture.cpp -o CMakeFiles/icex.dir/src/Texture.cpp.s
 
 CMakeFiles/icex.dir/src/Texture.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/icex.dir/src/Texture.cpp.o.provides.build: CMakeFiles/icex.dir/src/Te
 
 CMakeFiles/icex.dir/src/Utilities.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/Utilities.cpp.o: ../src/Utilities.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/icex.dir/src/Utilities.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Utilities.cpp.o -c /home/bonita/Desktop/icex/src/Utilities.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/icex.dir/src/Utilities.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/Utilities.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp
 
 CMakeFiles/icex.dir/src/Utilities.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/Utilities.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/Utilities.cpp > CMakeFiles/icex.dir/src/Utilities.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp > CMakeFiles/icex.dir/src/Utilities.cpp.i
 
 CMakeFiles/icex.dir/src/Utilities.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/Utilities.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/Utilities.cpp -o CMakeFiles/icex.dir/src/Utilities.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/Utilities.cpp -o CMakeFiles/icex.dir/src/Utilities.cpp.s
 
 CMakeFiles/icex.dir/src/Utilities.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/icex.dir/src/Utilities.cpp.o.provides.build: CMakeFiles/icex.dir/src/
 
 CMakeFiles/icex.dir/src/funcs.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/funcs.cpp.o: ../src/funcs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/icex.dir/src/funcs.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/funcs.cpp.o -c /home/bonita/Desktop/icex/src/funcs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/icex.dir/src/funcs.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/funcs.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp
 
 CMakeFiles/icex.dir/src/funcs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/funcs.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/funcs.cpp > CMakeFiles/icex.dir/src/funcs.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp > CMakeFiles/icex.dir/src/funcs.cpp.i
 
 CMakeFiles/icex.dir/src/funcs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/funcs.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/funcs.cpp -o CMakeFiles/icex.dir/src/funcs.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/funcs.cpp -o CMakeFiles/icex.dir/src/funcs.cpp.s
 
 CMakeFiles/icex.dir/src/funcs.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/icex.dir/src/funcs.cpp.o.provides.build: CMakeFiles/icex.dir/src/func
 
 CMakeFiles/icex.dir/src/main.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/icex.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/main.cpp.o -c /home/bonita/Desktop/icex/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/icex.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/main.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp
 
 CMakeFiles/icex.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/main.cpp > CMakeFiles/icex.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp > CMakeFiles/icex.dir/src/main.cpp.i
 
 CMakeFiles/icex.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/main.cpp -o CMakeFiles/icex.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/main.cpp -o CMakeFiles/icex.dir/src/main.cpp.s
 
 CMakeFiles/icex.dir/src/main.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/icex.dir/src/main.cpp.o.provides.build: CMakeFiles/icex.dir/src/main.
 
 CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o: CMakeFiles/icex.dir/flags.make
 CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o: ../src/tiny_obj_loader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o -c /home/bonita/Desktop/icex/src/tiny_obj_loader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o -c /home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp
 
 CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex/src/tiny_obj_loader.cpp > CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp > CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.i
 
 CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex/src/tiny_obj_loader.cpp -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bonita/Desktop/icex2018/ICEX2018/src/tiny_obj_loader.cpp -o CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.s
 
 CMakeFiles/icex.dir/src/tiny_obj_loader.cpp.o.requires:
 
@@ -381,7 +381,7 @@ icex: /usr/local/lib/libopencv_imgcodecs.so.4.0.0
 icex: /usr/local/lib/libopencv_imgproc.so.4.0.0
 icex: /usr/local/lib/libopencv_core.so.4.0.0
 icex: CMakeFiles/icex.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bonita/Desktop/icex/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable icex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable icex"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/icex.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -408,6 +408,6 @@ CMakeFiles/icex.dir/clean:
 .PHONY : CMakeFiles/icex.dir/clean
 
 CMakeFiles/icex.dir/depend:
-	cd /home/bonita/Desktop/icex/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bonita/Desktop/icex /home/bonita/Desktop/icex /home/bonita/Desktop/icex/build /home/bonita/Desktop/icex/build /home/bonita/Desktop/icex/build/CMakeFiles/icex.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/bonita/Desktop/icex2018/ICEX2018/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bonita/Desktop/icex2018/ICEX2018 /home/bonita/Desktop/icex2018/ICEX2018 /home/bonita/Desktop/icex2018/ICEX2018/build /home/bonita/Desktop/icex2018/ICEX2018/build /home/bonita/Desktop/icex2018/ICEX2018/build/CMakeFiles/icex.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/icex.dir/depend
 
